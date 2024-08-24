@@ -1,0 +1,14 @@
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\bin\Debug\net8.0\ExamenParcialFidelLeiva.exe
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\bin\Debug\net8.0\ExamenParcialFidelLeiva.deps.json
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\bin\Debug\net8.0\ExamenParcialFidelLeiva.runtimeconfig.json
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\bin\Debug\net8.0\ExamenParcialFidelLeiva.dll
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\bin\Debug\net8.0\ExamenParcialFidelLeiva.pdb
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.AssemblyInfoInputs.cache
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.AssemblyInfo.cs
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.csproj.CoreCompileInputs.cache
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.dll
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\refint\ExamenParcialFidelLeiva.dll
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.pdb
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ExamenParcialFidelLeiva.genruntimeconfig.cache
+C:\Users\wmarroquin\source\repos\ExamenParcialFidelLeiva\ExamenParcialFidelLeiva\obj\Debug\net8.0\ref\ExamenParcialFidelLeiva.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExamenParcialFidelLeiva/1.0.0": {
+        "runtime": {
+          "ExamenParcialFidelLeiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamenParcialFidelLeiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
